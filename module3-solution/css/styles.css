@@ -1,0 +1,53 @@
+body {
+	font-size: 16px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: #000;
+	background-color: #fff;
+}
+
+#item_desc {
+	color: #000;
+	background-color: #888;
+	padding: 10px;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+
+/* .navbar-brand {
+  padding-top: 15px;
+} */
+
+.navbar-header {
+	margin: 0px;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  color: #557c3e;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+li {
+	background-color: #e08;
+	color: #fff;
+	margin: 1px;
+	border: 1px;
+	border-color: white;
+	padding: 2px;
+	font-family: Arial, Tahoma, sans-serif; 
+	font-style: normal;
+  font-size: 1.6em;
+	text-align: center;
+
+}
+
