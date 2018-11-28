@@ -18,11 +18,6 @@ body {
   border: 0;
 }
 
-.navbar {
-  margin-bottom: 0px;
-}
-
-
 /* .navbar-brand {
   padding-top: 15px;
 } */
@@ -31,7 +26,7 @@ body {
 	margin: 0px;
 }
 
-.navbar-brand h1 { 
+.navbar-brand h1 { /* Restaurant name */
   color: #557c3e;
   font-size: 1.5em;
   text-transform: uppercase;
@@ -40,7 +35,7 @@ body {
   margin-top: 0;
   margin-bottom: 0;
   line-height: .75;
-} 
+}
 
 li {
 	background-color: #e08;
@@ -53,5 +48,6 @@ li {
 	font-style: normal;
   font-size: 1.6em;
 	text-align: center;
+
 }
 
